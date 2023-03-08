@@ -1,2 +1,2 @@
-# dougbot-extensions
+# DougBot-Extensions
 Extensions for DougBot
